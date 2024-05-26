@@ -22,6 +22,7 @@ const Screen1 = () => {
         </div>
         </nav>
         <h1>Screen 1</h1>
+        <p>All-detail</p>
         <p>Name: Naseem HAssan</p>
         <p>Reg-n0: Fa20-Bcs-068</p>
         <p>Field: Ui/Ux designer</p>
